@@ -1,0 +1,10 @@
+!!!
+
+1. На главной на body class "home"
+2. Блок c классом section-wrap позволяет разделять блоки 2 --- добавляет фигуры 3 --- фон http://prntscr.com/lbx966
+3.1 class .align-left на картинку ----  http://prntscr.com/lbxah0  прижмет влево
+3.2 class .align-right на картинку ----  прижмет вправо
+3.3 class .align-center на картинку ---- по центру
+4. весь инф контент , а именно : списки нумерованый , маркированый , таблицы , текс ,
+нужно оборачивать в div.text-wrap http://prntscr.com/lbxcxp
+5.в боковом меню , второй уровень нужен класс http://prntscr.com/lc4kh3 для скролла
